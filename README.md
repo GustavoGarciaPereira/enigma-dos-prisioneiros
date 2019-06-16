@@ -1,5 +1,6 @@
 # enigma-dos-prisioneiros
 implementação do defafio proposto no video: https://www.youtube.com/watch?v=fA3CTGpPVvA
+para entender melhor o desafio olhe o video!!
 
 ## usei o enterpretador:
 python3.6
